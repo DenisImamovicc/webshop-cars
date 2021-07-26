@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/webshop-cars/static/css/main.5e2eb580.chunk.css",
+    "main.js": "/webshop-cars/static/js/main.c8158860.chunk.js",
+    "main.js.map": "/webshop-cars/static/js/main.c8158860.chunk.js.map",
+    "runtime-main.js": "/webshop-cars/static/js/runtime-main.e2f632ac.js",
+    "runtime-main.js.map": "/webshop-cars/static/js/runtime-main.e2f632ac.js.map",
+    "static/js/2.aa827468.chunk.js": "/webshop-cars/static/js/2.aa827468.chunk.js",
+    "static/js/2.aa827468.chunk.js.map": "/webshop-cars/static/js/2.aa827468.chunk.js.map",
+    "index.html": "/webshop-cars/index.html",
+    "static/css/main.5e2eb580.chunk.css.map": "/webshop-cars/static/css/main.5e2eb580.chunk.css.map",
+    "static/js/2.aa827468.chunk.js.LICENSE.txt": "/webshop-cars/static/js/2.aa827468.chunk.js.LICENSE.txt",
+    "static/media/labrador_profile.712b899f.jpg": "/webshop-cars/static/media/labrador_profile.712b899f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f632ac.js",
+    "static/js/2.aa827468.chunk.js",
+    "static/css/main.5e2eb580.chunk.css",
+    "static/js/main.c8158860.chunk.js"
+  ]
+}
